@@ -1,0 +1,318 @@
+@font-face {
+  font-family: 'mapnearby';
+  src:  url('../fonts-nearby/mapnearby.eot?ifcfa4');
+  src:  url('../fonts-nearby/mapnearby.eot?ifcfa4#iefix') format('embedded-opentype'),
+    url('../fonts-nearby/mapnearby.ttf?ifcfa4') format('truetype'),
+    url('../fonts-nearby/mapnearby.woff?ifcfa4') format('woff'),
+    url('../fonts-nearby/mapnearby.svg?ifcfa4#mapnearby') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="mapnearby-"], [class*=" mapnearby-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'mapnearby' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.mapnearby-for-sale:before {
+  content: "\e900";
+}
+.mapnearby-for-rent:before {
+  content: "\e901";
+}
+.mapnearby-for-share:before {
+  content: "\e902";
+}
+.mapnearby-car_repair:before {
+  content: "\e800";
+}
+.mapnearby-car_wash:before {
+  content: "\e801";
+}
+.mapnearby-casino:before {
+  content: "\e802";
+}
+.mapnearby-cemetery:before {
+  content: "\e803";
+}
+.mapnearby-church:before {
+  content: "\e804";
+}
+.mapnearby-city_hall:before {
+  content: "\e805";
+}
+.mapnearby-clothing_store:before {
+  content: "\e806";
+}
+.mapnearby-convenience_store:before {
+  content: "\e807";
+}
+.mapnearby-courthouse:before {
+  content: "\e808";
+}
+.mapnearby-dentist:before {
+  content: "\e809";
+}
+.mapnearby-department_store:before {
+  content: "\e80a";
+}
+.mapnearby-doctor:before {
+  content: "\e80b";
+}
+.mapnearby-electrician:before {
+  content: "\e80c";
+}
+.mapnearby-electronics_store:before {
+  content: "\e80d";
+}
+.mapnearby-embassy:before {
+  content: "\e80e";
+}
+.mapnearby-establishment:before {
+  content: "\e80f";
+}
+.mapnearby-finance:before {
+  content: "\e810";
+}
+.mapnearby-fire_station:before {
+  content: "\e811";
+}
+.mapnearby-florist:before {
+  content: "\e812";
+}
+.mapnearby-food:before {
+  content: "\e813";
+}
+.mapnearby-funeral_home:before {
+  content: "\e814";
+}
+.mapnearby-furniture_store:before {
+  content: "\e815";
+}
+.mapnearby-gas_station:before {
+  content: "\e816";
+}
+.mapnearby-general_contractor:before {
+  content: "\e817";
+}
+.mapnearby-grocery_or_supermarket:before {
+  content: "\e818";
+}
+.mapnearby-gym:before {
+  content: "\e819";
+}
+.mapnearby-hair_care:before {
+  content: "\e81a";
+}
+.mapnearby-hardware_store:before {
+  content: "\e81b";
+}
+.mapnearby-health:before {
+  content: "\e81c";
+}
+.mapnearby-hindu_temple:before {
+  content: "\e81d";
+}
+.mapnearby-home_goods_store:before {
+  content: "\e81e";
+}
+.mapnearby-hospital:before {
+  content: "\e81f";
+}
+.mapnearby-insurance_agency:before {
+  content: "\e820";
+}
+.mapnearby-jewelry_store:before {
+  content: "\e821";
+}
+.mapnearby-jewelry-store:before {
+  content: "\e822";
+}
+.mapnearby-laundry:before {
+  content: "\e823";
+}
+.mapnearby-lawyer:before {
+  content: "\e824";
+}
+.mapnearby-library:before {
+  content: "\e825";
+}
+.mapnearby-liquor_store:before {
+  content: "\e826";
+}
+.mapnearby-local_government_office:before {
+  content: "\e827";
+}
+.mapnearby-locksmith:before {
+  content: "\e828";
+}
+.mapnearby-lodging:before {
+  content: "\e829";
+}
+.mapnearby-meal_delivery:before {
+  content: "\e82a";
+}
+.mapnearby-meal_takeaway:before {
+  content: "\e82b";
+}
+.mapnearby-mortgage:before {
+  content: "\e82c";
+}
+.mapnearby-mosque:before {
+  content: "\e82d";
+}
+.mapnearby-movie_rental:before {
+  content: "\e82e";
+}
+.mapnearby-movie_theater:before {
+  content: "\e82f";
+}
+.mapnearby-museum:before {
+  content: "\e830";
+}
+.mapnearby-night_club:before {
+  content: "\e831";
+}
+.mapnearby-painter:before {
+  content: "\e832";
+}
+.mapnearby-pet_store:before {
+  content: "\e833";
+}
+.mapnearby-parking:before {
+  content: "\e834";
+}
+.mapnearby-pharmacy:before {
+  content: "\e835";
+}
+.mapnearby-physiotherapist:before {
+  content: "\e836";
+}
+.mapnearby-place_of_worship:before {
+  content: "\e837";
+}
+.mapnearby-plumber:before {
+  content: "\e838";
+}
+.mapnearby-police:before {
+  content: "\e839";
+}
+.mapnearby-post-office:before {
+  content: "\e83a";
+}
+.mapnearby-real_estate_agency:before {
+  content: "\e83b";
+}
+.mapnearby-restaurant:before {
+  content: "\e83c";
+}
+.mapnearby-rv_park:before {
+  content: "\e83e";
+}
+.mapnearby-school:before {
+  content: "\e83f";
+}
+.mapnearby-shoe_store:before {
+  content: "\e840";
+}
+.mapnearby-shopping_mall:before {
+  content: "\e841";
+}
+.mapnearby-spa:before {
+  content: "\e842";
+}
+.mapnearby-stadium:before {
+  content: "\e843";
+}
+.mapnearby-storage:before {
+  content: "\e844";
+}
+.mapnearby-symbol:before {
+  content: "\e845";
+}
+.mapnearby-synagogue:before {
+  content: "\e846";
+}
+.mapnearby-taxi_stand:before {
+  content: "\e847";
+}
+.mapnearby-train_station:before {
+  content: "\e848";
+}
+.mapnearby-transit_station:before {
+  content: "\e849";
+}
+.mapnearby-university:before {
+  content: "\e84a";
+}
+.mapnearby-veterinary_care:before {
+  content: "\e84b";
+}
+.mapnearby-zoo:before {
+  content: "\e84c";
+}
+.mapnearby-accounting:before {
+  content: "\e84d";
+}
+.mapnearby-airport:before {
+  content: "\e84e";
+}
+.mapnearby-amusement_park:before {
+  content: "\e84f";
+}
+.mapnearby-aquarium:before {
+  content: "\e850";
+}
+.mapnearby-art_gallery:before {
+  content: "\e851";
+}
+.mapnearby-atm:before {
+  content: "\e852";
+}
+.mapnearby-bakery:before {
+  content: "\e853";
+}
+.mapnearby-bank:before {
+  content: "\e854";
+}
+.mapnearby-bar:before {
+  content: "\e855";
+}
+.mapnearby-beauty_salon:before {
+  content: "\e856";
+}
+.mapnearby-bicycle_store:before {
+  content: "\e857";
+}
+.mapnearby-book_store:before {
+  content: "\e858";
+}
+.mapnearby-bus_station:before {
+  content: "\e859";
+}
+.mapnearby-cafe:before {
+  content: "\e85a";
+}
+.mapnearby-campground:before {
+  content: "\e85b";
+}
+.mapnearby-car_dealer:before {
+  content: "\e85c";
+}
+.mapnearby-car_rental:before {
+  content: "\e85d";
+}
+.mapnearby-roofing_contractor:before {
+  content: "\e903";
+}
+

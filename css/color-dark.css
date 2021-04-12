@@ -1,0 +1,692 @@
+/* graySclae */
+.property-grid,
+.property-medium { border: 0; -webkit-filter: grayscale(100%); filter: grayscale(100%); }
+.property-grid:hover,
+.property-medium:hover { -webkit-filter: grayscale(0); filter: grayscale(0); }
+
+/* graySclae */
+.member-grid.member-grid-slider .post-inner-member { background: #fff; }
+
+/* property grid start */
+.property-grid .img-holder { border: 0; }
+.real-estate-property .grid-default-slider .property-grid.default .loation-list-holder { background: #303030 !important; }
+.property-grid.classic .post-category-list li i,
+.property-grid.modern.v3 .post-property-footer { background-color: #303030; }
+.property-grid.modern .post-title a{color:#fff !important;}
+
+/* property grid end*/
+
+/* property medium */
+.property-medium { border: 0; }
+.property-medium.classic p { color: #999 !important; }
+.property-medium .post-time span,
+.property-medium .post-time span a { color: #dba102; }
+.property-medium .post-time span a:hover { color: #bf8e06; }
+.list-top-category,
+.list-top-category .img-holder:after,
+.property-grid.list-top-category .text-holder,
+.list-top-category a.property-list-enquiry-check .enquiry-loader { background-color: #292929; }
+
+/* property medium */
+
+/* property filter */
+.property-sorting-holder .user-location-filters li { border-bottom: 0; }
+.property-sorting-holder .user-location-filters li a { color: #2b2b2b; }
+.property-medium.modern .text-holder { box-shadow: 0 -2px #272727 inset; }
+
+/* property filter */
+.show-more-property.v2 #filters li.active span,
+.show-more-property.v2 #filters li span:hover,
+.show-more-property.v2 #filters li.active span a { color: #dba102 !important; }
+.show-more-property.v2 #filters li span:before { background-color: #272727; }
+
+/* column-content start*/
+.column-content ul li { border-bottom: 1px solid #4f4f4f; padding: 15px 0 15px 25px; font-weight: 600; font-size: 16px; }
+.column-content ul li:last-child { border-bottom: 0; }
+.column-content ul li:before { top: 50%; transform: translateY(-50%); }
+
+/* column-content end*/
+
+/* Member slider start*/
+.button-next-member,
+.button-prev-member { width: 30px; height: 30px; line-height: 30px; background-color: #c7c7c7; color: #383838; }
+.button-next-member { right: 36px; }
+.button-next-member i,
+.button-prev-member i { line-height: 29px; font-weight: 700; }
+.company-logo.v2 ul li:hover { background: transparent; }
+
+/* Member slider end*/
+
+/* filters sidebar start*/
+.wp-rem-filters .search-options { background-color: #383838; border: solid 1px #2b2b2b; }
+.wp-rem-filters .search-options .reset-holder .email-me-top .email-alert-btn { border: solid 1px #2b2b2b; }
+.wp-rem-filters .filters-options { background-color: #383838; }
+.checkbox label:before { background: #444444; border-color: #383838; }
+.wp-rem-filters ul li .checkbox span { background: #444444; box-shadow: 0 1px 1px 0 #2b2b2b; }
+.wp-rem-filters .cs-parent-checkbox-list .checkbox label:before { background: transparent; }
+.wp-rem-filters .select-categories .chosen-container-single .chosen-single,
+.main-search.fancy.v3 .chosen-container-single .chosen-single span,
+.main-search.classic .chosen-container-single .chosen-single span { color: #666666; }
+.input-group-btn-vertical .caret-btn { border-color: #444444; }
+.input-group-btn-vertical .caret-btn:active { border-color: #444444 !important; }
+.main-search.fancy.v3.plain .property-category-fields .cate-spinning{border-right-color:#444;}
+/* filters sidebar end*/
+
+/* widget style */
+.widget .properties-post { background: transparent; }
+
+/* widget style */
+
+/* main search */
+.property-type.checkbox li:last-child label { border-right: 0; }
+.main-search .property-type.checkbox li:first-child label { border-right: 0; }
+.chosen-container-single .chosen-search input[type="text"] { border-color: #666666; }
+.main-search .search-country .select-holder i,
+.main-search label i,
+.main-search label em { color: #444; }
+.member-search .wp_rem_location_autocomplete .address_headers strong,
+.wp_rem_location_autocomplete .address_headers strong,
+.user-property .user-list ul.panel-group li .panel .panel-heading .img-holder .sold-property-box label:before,
+.user-holder.create-property-holder .field-holder > input[type='text'],
+.blog .btn-readmore ,
+.main-search.fancy.v3 .property-category-fields .cate-spinning:after,
+.main-search.fancy.v3.plain .select-location .slider.slider-horizontal .slider-track,
+.info-tooltip .info-content span,
+.field-holder .chosen-container-multi li.search-choice{ background: #444; }
+/* main search end */
+
+/* background color */
+.wp_rem_location_autocomplete,
+.price-per-person .slider.slider-horizontal .slider-track,
+.fixed-sidebar-panel,
+.sidebar-btn-holder .sidebar-property-btn,
+.sidebar-properties-list ul li:nth-child(even),.wp-rem-top-map-search.has-map-search .has-bg-color,.property-grid .text-holder,.property-grid,.property-medium,.property-grid.modern.v1 .like-btn,.property-medium.classic .like-btn,.featured-slider .swiper-pagination-bullet,.real-estate-property .swiper-button-next.default,.real-estate-property .swiper-button-prev.default,.invite-member.active,
+.property-medium .img-holder:after, .property-grid .img-holder:after,
+.main-search.classic,
+.liting_map_info .property-info-inner{ background: #383838; }
+/* background color */
+
+/* sliding sidebar */
+.sidebar-properties-list ul li:nth-child(odd),.input-filed .chosen-container-multi li.search-choice { background: #444; }
+.wp-rem-filters .select-categories .reset-field { color: #dba102; }
+.property-item .text-holder .property-title,
+.property-item .text-holder .property-title a,
+.info-tooltip .info-content span { color: #fff; }
+/* sliding sidebar */
+
+/* dark background */
+.wp-rem-filters .select-categories .chosen-container-single .chosen-single,
+.input-group-btn-vertical .caret-btn,
+.wp-rem-filters .minimum-loading-list li,
+.minimum-loading-list li,
+.main-search .field-holder.field-range .price-per-person,
+.search-advanced-fields .chosen-container-single .chosen-single,
+.wp-rem-filters .minimum-loading-list li,
+.minimum-loading-list li,
+.main-search label,
+.main-search .property-category-fields .cate-spinning,
+.main-search .property-price-type-field .cate-spinning,
+.chosen-container .chosen-drop,
+.post-property-footer .rem-property-options .option-holder a:hover,
+.post-property-footer .rem-property-options .option-holder label:hover,
+.chosen-container-multi .chosen-choices,
+.user-holder.create-property-holder .map-address-holder .field-holder > input[type='text'],
+.blog .btn-readmore,
+.main-search.modern.v2 .search-input input,
+.main-search.modern.v2 .field-holder.has-icon .chosen-single,
+.main-search.modern.v3 .chosen-container-single .chosen-single,
+.main-search.advance .select-dropdown,
+.main-search.modern.v2 .search-advanced-fields .select-dropdown .chosen-single{ background-color: #2b2b2b; }
+.login-form .modal-header{ background-color: #2b2b2b !important; }
+/* dark background */
+
+/* split map */
+.wp-rem-split-map-wrap .filters-sidebar + .col-lg-9,
+.wp-rem-split-map-wrap .split-map-toggler,
+.wp-rem-split-map-wrap .filters-sidebar,
+.package-info-sec.property-info-sec,
+.main-search.fancy.v3 .select-location .slider.slider-horizontal .slider-track ,
+.main-search.fancy.v3 .select-location .slider-handle,
+.main-search.modern.v3 .slider.slider-horizontal .slider-track{ background: #444; }
+.main-search.modern.v3 .chosen-container-single .chosen-single div b:before,
+.main-search.modern.v3 .slider.slider-horizontal + input + span,
+.main-search.modern.v3 .wp-rem-radius-location,
+.main-search.advance .select-dropdown,
+.main-search.fancy.v3.plain .search-country .select-holder input, .main-search.fancy.v3.plain .search-input input, .main-search.fancy.v3.plain .search-country .select-holder input, .main-search.fancy.v3.plain .search-input input,
+.main-search.fancy.v3.plain .chosen-container-single .chosen-single,
+.main-search.fancy.v3.plain .select-location .select-popup.popup-open{border-color: #444;}
+.main-search.modern.v3 .wp-rem-radius-location a{color: #444;}
+/* split map */
+
+/* border-color */
+.wp-rem-filters .select-categories .chosen-container-single .chosen-single,
+.wp-rem-filters .minimum-loading-list li,
+.minimum-loading-list li,
+.wp-rem-filters .filters-options,
+.property-sorting-holder,
+.widget .properties-post,
+.widget .properties-post .img-holder,
+.wp_rem_location_autocomplete .wp_rem_google_suggestions,
+.wp_rem_location_autocomplete,
+.wp-rem-filters .select-categories .chosen-container-active .chosen-single,
+.wp-rem-filters .select-categories .chosen-container .chosen-drop,
+.main-search.modern .search-country .select-holder input,
+.main-search.modern .search-input input,
+.main-search.modern .search-country .select-holder input,
+.main-search.modern .search-input input,
+.main-search.modern .chosen-container-single .chosen-single,
+.main-search.modern .property-type.checkbox li label,
+.main-search.modern .property-type.checkbox li:first-child label,
+.main-search.modern .property-category-fields .cate-spinning,
+.cs-datepicker input[type='text'],
+.wp-rem-split-map-wrap.split-map-right .filters-sidebar,
+.post-property-footer .rem-property-options li,
+.post-property-footer,
+.grid-default-slider .property-grid.default .loation-list-holder,
+.property-grid.classic .post-category-list li,
+.property-grid.classic.v2,
+.property-medium.modern .property-footer,
+.property-medium.classic,
+.property-grid.modern.v1 .like-btn,
+.property-medium.classic .like-btn,
+.column-text.classic .categories-holder.classic,
+.column-text.classic .categories-holder.classic .has-border:after,
+.real-estate-property .swiper-button-next.default,
+.real-estate-property .swiper-button-prev.default,
+.property-grid.modern .text-holder,
+.property-grid.modern.v1 .post-property-footer,
+.property-grid.modern .thumb-img,
+.property-grid.modern.v3 .text-holder,
+.property-grid.modern.v3 .post-property-footer,
+.property-grid.modern.v3 .price-holder,
+.property-grid.modern.v2 .text-holder,
+.property-grid.list-top-category .post-property-footer,
+.property-grid.list-top-category .post-property-footer .rem-property-options li,
+.field-holder .chosen-container-active .chosen-choices,
+.input-filed .chosen-container-active .chosen-choices,
+.input-filed .chosen-container-multi .chosen-choices,
+.input-filed .chosen-container-multi .chosen-drop,
+.input-filed .chosen-container-multi li.search-choice,
+a.property-list-enquiry-check:before,
+.package-info-sec.property-info-sec,
+.property-info-sec ul li,
+.user-property .user-list ul.panel-group li .panel .panel-heading .img-holder .sold-property-box label span,
+.property-back-dashboard a:hover ,.payment-list .payment-box label,
+.user-holder.create-property-holder .field-holder > input[type='text'],
+blockquote,.select-location .select-popup,
+.main-search.classic .field-holder{ border-color: #272727; }
+
+/* border-color */
+.main-search.fancy.v3.plain .search-country .select-holder input,
+.main-search.fancy.v3.plain .search-input input,
+.main-search.fancy.v3.plain .search-country .select-holder input,
+.main-search.fancy.v3.plain .search-input input,
+.main-search.fancy.v3.plain .chosen-container-single .chosen-single { box-shadow: 0 -1px 0 0 #444 inset, 0 1px 0 0 #444 inset;}
+.main-search.fancy.v3.plain .select-location .select-popup.popup-open{box-shadow: 0 -1px 0 0 #2b2b2b inset, 0 1px 0 0 #2b2b2b inset;}
+.main-search.fancy.v3 .chosen-container-single .chosen-single div b:before,
+.main-search.fancy.v2 .wp-rem-radius-location{border-left-color: #444;}
+.main-search.classic .field-holder input, .main-search.classic .field-holder select,
+.main-search.classic .field-holder label{background: transparent !important;}
+/* colors*/
+.property-medium .post-category-list li,
+.property-grid .post-category-list li,
+.checkbox label,
+.chosen-container .chosen-results,
+.property-item .text-holder .property-author-name,
+.property-medium .like-btn a,
+.real-estate-property .modern-filters li span,
+.real-estate-property .modern-filters li span a,
+.property-grid.modern .post-category-list li,
+.property-grid.default .post-category-list li i,
+.show-more-property.v2 #filters li span a,
+.checkbox input[type="checkbox"]:checked+label:before,
+.checkbox input[type="radio"]:checked+label:before,
+.input-filed .chosen-container-multi li.search-choice,
+.membership-info-main table > tbody > tr > td span,
+.blog .btn-readmore, a.property-list-enquiry-check:before, a.property-list-enquiry-check .enquiry-loader,
+.user-property .user-list ul.panel-group li .enquiries-viewings-links li a,
+.responsive-calendar .controls h4 span,
+.field-holder .chosen-container-multi li.search-choice{ color: #999; }
+/* colors*/
+
+/*Background color*/
+.widget, .blog.blog-medium .blog-post, .blog.blog-medium .text-holder, .blog.blog-grid .blog-post,
+.blog.blog-grid .blog-post .button-holder .btn-readmore:hover, .blog.blog-grid .blog-post .button-holder .btn-readmore,.blog.blog-large .text-holder,
+.pagination > li > a, .pagination > li > span, .pagination > li > a.prev, .pagination > li > a.next,
+.property-info-sec ul.property-pkg-points:before,
+.main-search.modern.v3.small-search,
+.main-search.simple.v2 .search-default-fields{background-color:#383838;}
+.main-search.simple.v2 .property-type label:after{border-bottom-color:#383838;}
+/*Background color*/
+/*Text color*/
+.blog .text-holder .post-views, .blog .text-holder .post-options li a,.blog.blog-grid.simple .text-holder .post-options li a, 
+.widget.widget-latest-post ul li .text-holder .post-option .post-date a, .widget.widget_archive li a, .widget.widget_pages ul li a,
+.blog-detail .detail-author .author-info .text-holder span,
+.blog-detail .detail-author .author-info .text-holder span a, .comment-form .field-holder strong,
+.blog-detail .prv-next-post a, .blog-detail .prv-next-post .prv-post a i, .blog-detail .prv-next-post .next-post a i,
+.tags-list strong, .pagination > li > a, .pagination > li > span, .pagination > li > a.prev, .pagination > li > a.next,
+.member-detail .contactform_name input[type=text]{color:#999;}
+/*Text color*/
+/*Border color*/
+.blog.blog-medium .blog-post, .blog.blog-medium .text-holder, .blog.blog-grid .blog-post, .widget, 
+.blog.blog-grid .blog-post .button-holder .btn-readmore, .pagination > li > a, .pagination > li > span, .blog.blog-grid .blog-post .button-holder .btn-readmore:hover,
+.pagination > li > a.prev, .pagination > li > a.next, .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, 
+.pagination > .active > a:focus, .pagination > .active > span:focus, .widget.widget-gallery ul li .cs-media figure,
+.blog.blog-medium.list,
+.liting_map_info .property-info-inner{border-color:#2d2d2d;}
+/*Border color*/
+/*Widget Style Start*/
+.widget.widget_search form input.form-control{background-color:#2b2b2b;}
+.widget.widget_archive li,
+.related-post .swiper-button-next, .related-post .swiper-button-prev, .blog.blog-grid .icons-list span a{border-color:#666;}
+/*Widget Calendar Table border color*/
+.widget.widget_calendar table thead tr th{border-top: 1px solid #2d2d2d;}
+.widget.widget_calendar table > thead > tr > th, .widget.widget_calendartable table > tbody > tr > th, 
+.widget.widget_calendar table > tfoot > tr > th, .widget.widget_calendartable table > thead > tr > td, 
+.widget.widget_calendar table > tbody > tr > td, .widget.widget_calendartable table > tfoot > tr > td{border: 1px solid #2d2d2d; border-top: 1px solid #2d2d2d;}
+/*Widget Style End*/
+.social-media .social-share, .social-media .social-share:before {background-color: #fff;}
+.comment-form .field-holder input[type='text'], .comment-form .field-holder textarea{color: #666666; background-color: #2b2b2b;}
+.comment-form .field-holder input[type='text'], .comment-form .field-holder textarea, .tags-list, .widget.widget_search form input.form-control{border-color:#272727;}
+.pagination > li > a:hover, .pagination > li > a.prev:hover, .pagination > li > a.next:hover{color: #fff; border-color: #2d2d2d;}
+.blog .btn-readmore, a.property-list-enquiry-check:before, a.property-list-enquiry-check .enquiry-loader{background-color: #444; border-color: #444;}
+.blog.blog-grid.simple .text-holder .post-options li:before{background-color: #999;}
+/*color theme*/
+.blog.blog-grid .button-holder .btn-readmore i{color: #dba102;}
+/*color theme*/
+.property-back-dashboard a:hover{color: #999 !important; border-color:#2d2d2d !important;}
+/*Dashboard Style Start*/
+.user-holder, .invite-member.add-member.active, .invite-member.add-member, .calendar-holder, .user-holder .map-address-holder, .switchs-holder2,
+div.daterangepicker, .wp-rem .daterangepicker .calendar-table,
+.property-info-sec ul.property-pkg-points:before{background-color: #383838;}
+.user-holder, .user-holder .field-holder input[type='text'], .user-holder .field-holder textarea, .invite-member .field-holder input[type='text'], 
+.user-holder .field-holder input[type='password'], .signup-form .field-holder input[type='text'], .signup-form .field-holder input[type='password'],
+.newsletter .field-holder input[type='text'], .newsletter .field-holder textarea, .newsletter .field-holder input[type='password'],
+.user-profile .team-list ul.panel-group > li, .user-profile .team-list ul.panel-group > li:first-child, .element-title.has-border,
+.responsive-calendar .day-headers:before, .user-holder .chosen-container-single .chosen-single, .user-holder .chosen-container-single .chosen-drop,
+.calendar-holder, .chosen-container-single .chosen-search input[type="text"], div.daterangepicker, .wp-rem .daterangepicker .calendar-table,
+div.daterangepicker .input-mini.active, div.daterangepicker .input-mini, .user-property .user-list ul.panel-group li .panel .panel-heading .img-holder .sold-property-box label:before{border-color: #2d2d2d;}
+
+.user-suggest-list ul li, .user-property .user-list ul.panel-group li, .orders-list > li, .user-favorite-list ul li,
+.user-profile .team-list ul.panel-group > li{border-top-color:#2d2d2d;}
+.user-account-holder .text-holder .btn-change-password, .suggest-list-holder .text-holder span, 
+.user-property .user-list ul.panel-group li .panel .panel-heading span.edit a, .element-title .team-option a, .right-filters #date_range,
+.orders-list li span, .suggest-list-holder .text-holder .delete-hidden-property,
+.user-holder .field-holder input[type='text'], .user-holder .field-holder textarea, .invite-member .field-holder input[type='text'], 
+.user-holder .field-holder input[type='password'], .signup-form .field-holder input[type='text'], .signup-form .field-holder input[type='password'], 
+.newsletter .field-holder input[type='text'], .newsletter .field-holder textarea, .newsletter .field-holder input[type='password'],
+.signup-form .field-holder label, .user-profile-images .current-img span, .user-profile .team-list ul.panel-group li span,
+ .user-profile .team-list ul.panel-group li .panel .panel-heading a span.supper-admin,
+.user-profile .team-list ul.panel-group li .panel .panel-heading a span.email, .responsive-calendar .day a, .responsive-calendar .day, .responsive-calendar .availability,
+.responsive-calendar .btn-primary, div.daterangepicker .calendar th, div.daterangepicker .calendar td, .daterangepicker .input-mini,
+.property-info-sec ul.property-pkg-points li label {color: #999;}
+
+.account-header, .orders-list > li.unread, .orders-list > li.unread .info-holder, .wp-rem .daterangepicker td.off, .wp-rem .daterangepicker td.off.in-range, 
+.wp-rem .daterangepicker td.off.start-date, .wp-rem .daterangepicker td.off.end-date{background-color: #444;}
+.suggest-list-holder .text-holder h6 a, .user-property .user-list ul.panel-group li .panel .panel-heading .img-holder .property-label-caption h6 a, 
+.orders-list .orders-title h6.order-title a, .user-profile .team-list ul.panel-group li .panel .panel-heading a .img-holder strong,
+.user-account-holder .user-holder .element-title h4, .invite-member a.close-btn.cancel, .user-holder .field-holder label,
+ul.dashboard-nav li a,.buy-new-pakg-actions label a,
+.liting_map_info .info-txt-holder a.info-title{color: #fff;}
+.orders-list .orders-title h6.order-title a{border-color: #fff;}
+.right-filters #date_range, .element-title .team-option a,
+.user-holder .field-holder input[type='text'], .user-holder .field-holder textarea, .invite-member .field-holder input[type='text'], 
+.user-holder .field-holder input[type='password'], .signup-form .field-holder input[type='text'], .signup-form .field-holder input[type='password'], 
+.newsletter .field-holder input[type='text'], .newsletter .field-holder textarea, .newsletter .field-holder input[type='password'],
+.user-holder .chosen-container-single .chosen-single, .user-holder .chosen-container-single .chosen-drop, .chosen-container .chosen-results li.no-results,
+.chosen-container .chosen-results li{background-color: #272727;}
+.wp-rem .daterangepicker:before{border-bottom: 7px solid #383838; z-index: 10;}
+.property-info-sec ul li{border-top: 1px solid #666;}
+.package-info-sec.property-info-sec {border: 1px solid #2d2d2d; background: #444;}
+.buy-new-pakg-actions label a{border-bottom: 1px solid #fff;}
+/*color theme*/
+.property-info-sec ul li span.info-expiry-date, .review-property .delete-this-user-review{color: #dba102;}
+/*Dashboard Style End*/
+/*color theme*/
+.time-list .open-close-time a, .book-list .open-close-time a, .user-profile .team-list ul.panel-group li .panel .close-member,
+.user-property .user-list li .panel .close-member, .user-property .user-list ul.panel-group li .panel .panel-heading span.expire-date,
+.user-favorite-list .suggest-list-holder .text-holder .short-icon{color: #dba102;}
+/*bg color theme*/
+.element-title .team-option a.add-more, .user-account-holder .user-holder .field-holder .btn-submit,.user-account-holder .user-holder .btn-submit,
+.wp-rem-dev-appended .add-service.add-service-list, .property-update-package, .pkg-choose-btn, .wp-rem-dev-appended .add-service, .book-btn,
+.user-property .user-list .property-status .active{background-color: #dba102;}
+
+
+/*Text Theme Color Style Start*/
+.icon-boxes.award .text-holder,
+.page-not-found form input[type='text'],
+.page-not-found form i,
+.account-header .btn-change-password, 
+.account-header .btn-change-password a:hover, 
+.account-header .btn-change-password a:focus,
+.element-title span,
+.orders-list .orders-title span, 
+.orders-list li span,
+.reviews-sortby li span, 
+.reviews-sortby li strong,
+.input-reviews .radio-field label,
+.reviews-sortby li:after,
+.reviews-sortby li .reviews-sort-dropdown:after{color: #999999;}
+.faq.panel-group .panel .panel-collapse .panel-body p, 
+.faq.panel-group .panel .panel-collapse .panel-body ul li,
+.wp-rem-filters .search-options h6{color: #999999 !important;}
+/*Text Theme Color Style End*/
+/*Text White Color Style Start*/
+.testimonial-holder .text-holder p:before, 
+.testimonial-holder .text-holder p:after,
+.faq.panel-group .panel-heading a, 
+.faq.panel-group .panel-heading a:before,
+.element-title span em, 
+.suggest-list-holder .text-holder > a,
+.orders-list li span a,
+.user-account-holder .review-property .morelink,
+.liting_map_info a.close{color: #fff;}
+.suggest-list-holder .text-holder h6 a,
+.orders-list .orders-title h6.order-title a,
+ul.sub-nav li .btn-edit-profile,
+.user-property .user-list ul.panel-group li .panel .panel-heading .img-holder .property-label-caption h6 a{color: #fff !important;}
+/*Text White Color Style End*/
+/*Background White Color Style Start*/
+.user-account-nav.user-account-sidebar ul.dashboard-nav li b.label{background-color: #fff;}
+/*Background White Color Style End*/
+/*Background Color Style Start*/
+.icon-boxes.award,
+.icon-boxes.award .img-holder,
+.faq.panel-group .panel-heading a.collapsed,
+.page-not-found,
+.user-holder,
+.reviews-sortby li:after,
+.reviews-sortby li .reviews-sort-dropdown,
+.switchs-holder2,
+.user-holder .map-address-holder{background-color: #383838;}
+/*Background Color Style End*/
+/*Background Other Color Style Start*/
+.faq.panel-group .panel-heading a:hover, 
+.faq.panel-group .panel-heading a, 
+.faq.panel-group .panel .panel-collapse .panel-body,
+.orders-list > li.unread,
+.input-reviews .radio-field:hover, 
+.input-reviews .radio-field.active{background-color: #2b2b2b;}
+/*Background Other Color Style End*/
+/*Background for Body Color Style Start*/
+.account-header{background-color: #444444;}
+/*Background for Body Color Style End*/
+/*All Border Color Style Start*/
+.icon-boxes.award,
+.user-holder,
+.user-suggest-list ul li,
+.reviews-sortby li .reviews-sort-dropdown, 
+.reviews-sortby li strong,
+.input-reviews .radio-field label:before,
+.user-info .img-holder figure,
+.page-not-found form input[type='text'],
+.user-holder.create-property-holder .field-holder .chosen-container-multi .chosen-drop{border-color: #2b2b2b;}
+/*All Border Color Style End*/
+/*Top Border Color Style Start*/
+.icon-boxes.award .text-holder,
+.orders-list > li,
+.user-holder .time-sec .chosen-container-single .chosen-drop{border-top-color: #2b2b2b;}
+/*Top Border Color Style End*/
+/*Bottom Border Color Style Start*/
+.element-title.has-border{border-bottom-color:#2b2b2b;}
+/*Bottom Border Color Style End*/
+
+/* / under-construction / */
+#cs-construction:after{ background-color: #383838;  }
+.cs-construction{ background-color: #444444; border:1px solid #2b2b2b; }
+/* / under-construction / */
+
+/* / contect-us / */
+.cs-page-sec-188403{ background-color: #383838; }
+.contact-property ul.contact-info li .address-text span.info-desc{ color: #999; }
+.contact-form form .field-holder label, .contact-form form .field-holder strong{ color: #666; }
+.contact-form form .field-holder .field-input, .contact-form form .field-holder textarea { background-color: #2b2b2b; border-color:#272727;  }
+.cs-seprater{ background-color:#2b2b2b}
+/* / contect-us / */
+/*priceplane*/
+.plans-top-btns a{color:#fff; border:1px solid #2b2b2b;}
+.pricetable-holder.center{ background-color: #383838; border:1px solid #2b2b2b; }
+.pricetable-holder.center ul{ border-top: 1px solid #2b2b2b; }
+.pricetable-holder.center.active{ border-bottom: 1px solid #2b2b2b !important; }
+.pricetable-holder.center ul li{ color:#999; }
+.pricetable-holder.center.active:before{ background-color:#2b2b2b;  }
+.plans-compare-btn a{ border:1px solid #2b2b2b;}
+.pricetable-holder.center .cs-price a.try-btn{ background-color:#dba102; }
+.pricetable-holder.center .cs-price span.per-month{ color: #999; }
+.facny-image-price-plans .plans-compare-btn a{color:#fff !important;}
+/*priceplane*/
+
+/*Main Search Style Start*/
+.main-search.member-search h5, .main-search.member-search .tab-pane {background-color: #383838; border-color: #2b2b2b;}
+.main-search.member-search .search-input input, 
+.main-search.member-search .chosen-container-single .chosen-single {background: #2b2b2b; border-color: #272727;}
+.main-search .search-country .select-holder i, .main-search label i, .main-search label em {color: #555;}
+/*Main Search Style End*/
+
+/*Property Sorting Style Start*/
+.property-sorting-holder.member-sorting .user-location-filters .chosen-container-single .chosen-single,
+.property-sorting-holder.member-sorting .user-location-filters .chosen-container-single .chosen-drop,
+.chosen-container .chosen-results li.highlighted, .chosen-container .chosen-results li.result-selected {background: #383838; border-color: #2b2b2b;}
+.property-sorting-holder .chosen-container .chosen-results li {border-bottom: 1px solid #2b2b2b !important; color: #999; padding-top: 8px; padding-bottom: 8px;}
+.property-sorting-holder .chosen-container .chosen-results li:last-child {border-bottom:0 !important;}
+/*Property Sorting Style End*/
+
+/*Member Medium Style Start*/
+.member-medium.member-property .member-post, .member-grid .post-inner-member {background-color: #383838; border-color: #2b2b2b;}
+body .member-grid .member-info li a.ch-cnt-show-num, 
+html body .sh-hde-cnt-num a.ch-cnt-show-num {color: #dba102!important; border-color: #dba102;}
+.member-property .post-featured {background: #dba102;}
+.member-medium.member-property .member-post:last-child {border-color:#2b2b2b;}
+.widget.widget-newsletter .field-holder .field-input {background: #2b2b2b; border-color: #272727;}
+/*Member Medium Style End*/
+/*Member Grid Style Start*/
+.member-grid .img-holder {border-color:#2b2b2b;}
+.member-grid span.properties-count {background-color:#444; border-top-color:#2b2b2b; border-style:solid; border-width:1px 0 0 0;}
+/*Member Grid Style End*/
+
+/*Member Alphabatic Style Start*/
+.member-alphabatic .search-title span:before {background-color: #2b2b2b;}
+.member-search-filter ul, .member-search-filter li a, .member-detail .member-opening-hours {background-color: #383838; border-color:#2b2b2b;}
+/*Member Alphabatic Style End*/
+/*Member Detail Style Start*/
+.member-detail .member-opening-hours ul li:nth-child(odd), .tabs-property .member-data address i,
+.select-location .slider-track,
+.main-search.fancy.v2 .select-location .slider.slider-horizontal .slider-track {background-color: #444;}
+.member-tabs .tab-pane {background-color: #383838;}
+.member-tabs {border-color:#2b2b2b;}
+.member-tabs .nav.nav-tabs {background-color: #2b2b2b;}
+.member-tabs .nav > li > a {color:#999;}
+.member-detail .member-tabs .nav > li > a:hover, .member-detail .member-tabs .nav > li.active a {color: #fff !important; background-color: #dba102;}
+.tabs-property .member-data address a, .tabs-property .member-data span a, .tabs-property .member-data span {color: #999;}
+.tabs-property li {border-color:#2b2b2b;}
+/*Member Detail Style End*/
+
+/*Member Packages Style Start*/
+.membership-info-main table > tbody > tr > td:first-child,
+.membership-info-main table td, .membership-info-main table > thead > tr.most-popular > td.active, 
+.membership-info-main table thead tr td.active, .membership-info-main table > tbody > tr > td.active {background-color: #383838;}
+.membership-info-main table > thead > tr.most-popular > td.active:before {background: #dba102;}
+.membership-info-main table thead tr td, .membership-info-main table > tbody > tr > td,
+.membership-info-main table .has-bg, .membership-info-main table .has-bg td, .membership-info-main table thead tr td {background: #404040;}
+.membership-info-main table > thead > tr > th, .membership-info-main table > tbody > tr > th, .membership-info-main table > tfoot > tr > th, .membership-info-main table > thead > tr > td, .membership-info-main table > tbody > tr > td, .membership-info-main table > tfoot > tr > td, 
+.membership-info-main table > thead > tr.most-popular > td.active, .widget .member-post .img-holder {border-color:#2b2b2b;}
+.membership-info-main table > tbody > tr > td strong,
+.membership-info-main table .has-bg span, .membership-info-main table thead tr td .package-title {color:#fff;}
+.membership-info-main table > tbody > tr > td i.icon-check {color:#dba102;}
+/*Member Packages Style End*/
+
+/*Pagination Style Start*/
+.pagination > .disabled > span, .pagination > li > a {background-color: #383838; border-color: #2b2b2b; color: #999;}
+.pagination > .active > span {border-color:#dba102 !important;}
+
+.pagination > .disabled > span:hover, .pagination > .disabled > span:focus, .pagination > .disabled > a, 
+.pagination > .disabled > a:hover, .pagination > .disabled > a:focus,
+.pagination > li > a:hover, .pagination > li > span:hover, 
+.pagination > li > a:focus, .pagination > li > span:focus {background-color: #dba102; border-color: #dba102; color: #fff;}
+/*Pagination Style End*/
+/*Widget Style Start*/
+.widget {border: solid 1px #2b2b2b;}
+.widget .member-post, .widget .properties-post {background: #444; border-bottom-color: #2b2b2b;}
+/*Widget Style End*/
+
+/*Compare Properties Style Start*/
+.wp-rem-compare li:first-child .wp-rem-compare-box,
+.wp-rem-compare li .wp-rem-compare-box:nth-child(2),
+.wp-rem-compare li:first-child .wp-rem-compare-box,
+.wp-rem-compare li .wp-rem-compare-box:nth-child(3),
+.wp-rem-compare li:last-child, .wp-rem-compare li .wp-rem-compare-box:nth-child(4) {border-color:#2b2b2b;}
+.wp-rem-compare li:nth-child(odd) {background-color: #404040;}
+.wp-rem-compare li:nth-child(even), .wp-rem-compare li .wp-rem-compare-box .wp-rem-vs {background-color: #383838;}
+.wp-rem-compare li .wp-rem-compare-box p.label, .wp-rem-compare li .wp-rem-compare-box small.label {color:#fff;}
+.wp-rem-compare li:nth-child(2), .wp-rem-compare li:nth-child(1) {background-color: inherit;}
+/*Compare Properties Style End*/
+
+/*Add Properties Style Start*/
+.user-holder.create-property-holder .property-sets-holder, 
+.user-holder.create-property-holder #property-sets-holder, .membership-info-main table > tbody > tr > td:first-child, 
+.membership-info-main table td, .membership-info-main .packages-main-holder table > tbody > tr > td {background: #383838; border-color:#2b2b2b;}
+ul.property-radios li label span, ul.property-radios li label span,
+.user-holder.create-property-holder .field-holder label, .dashboard-element-title strong,
+.membership-info-main table label.pkg-inner-title, .membership-info-main table thead tr td,
+.membership-info-main table label.pkg-inner-title, .membership-info-main table thead tr td, .dashboard-title strong,
+.create-properties-cats ul.property-cats-list li label span, .create-properties-cats ul.property-cats-list li label i,
+.user-holder.create-property-holder .btns-section .back-btn-field .back-btn, .user-holder.create-property-holder .btns-section .back-btn-field i,
+.user-holder ul.tagit li.tagit-choice .tagit-close, .jqte_tool.jqte_tool_1 .jqte_tool_text, .jqte a, div.xdsoft_datetimepicker .xdsoft_datepicker .xdsoft_next, div.xdsoft_datetimepicker .xdsoft_datepicker .xdsoft_prev, div.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_next, div.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_prev,
+div.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current {color:#fff !important;}
+ul.property-radios li label {border-color:#2b2b2b; background-color: #444;}
+.membership-info-main table > tbody > tr > td i.icon-check2{color:#dba102;}
+.membership-info-main table > thead > tr > th, .membership-info-main table > tbody > tr > th, .membership-info-main table > tfoot > tr > th, .membership-info-main table > thead > tr > td, .membership-info-main table > tbody > tr > td, .membership-info-main table > tfoot > tr > td, .membership-info-main table > thead > tr.most-popular > td.active, .widget .member-post .img-holder, .membership-info-main .packages-main-holder table > tbody > tr > td:first-child,
+.membership-info-main .packages-main-holder table > thead > tr > td:first-child, .membership-info-main .packages-main-holder table > tbody > tr > td:first-child, .membership-info-main .packages-main-holder table > tbody > tr:last-child > td:first-child, 
+.user-holder.create-property-holder .chosen-container-single .chosen-drop {border-color:#2b2b2b;}
+.membership-info-main table > tfoot > tr > td, .membership-info-main .packages-main-holder table > tbody > tr.has-bg > td {background: #404040;}
+.membership-info-main .packages-main-holder table > thead > tr > td:first-child {background-color: transparent;}
+.user-holder.create-property-holder .btns-section:before, .user-holder ul.tagit, .user-holder.create-property-holder .field-holder .chosen-container-multi .chosen-choices {background:#2b2b2b;}
+.progressbar-nav li a {color:#ccc;}
+.create-properties-cats ul.property-cats-list li label, .property-openhouse-field, li.wp-rem-dev-appended-price {background-color: #404040; border-color:#2b2b2b;}
+.user-holder.create-property-holder .chosen-container-single .chosen-single, 
+.user-holder .chosen-container-single .chosen-drop {border-color: #272727; background-color: #2b2b2b;}
+.user-holder.create-property-holder .field-holder .chosen-container-single .chosen-search input[type='text'], .user-holder.create-property-holder .field-holder .input-group-btn-vertical .caret-btn {border-color:#404040;} 
+.user-holder.create-property-holder .field-holder .has-icon .input-date > input[type='text'], 
+.user-holder.create-property-holder .field-holder .has-icon>input[type="text"] {border-color: #404040; background-color: #2b2b2b;}
+.user-holder .checkbox-list input[type='checkbox']:checked + label:before {color:#999;}
+.user-holder .checkbox-list label:before, .user-holder.create-property-holder .field-holder > textarea, .jqte_editor, .jqte_source,
+.package-info-sec.property-info-sec, .property-info-sec ul.property-pkg-points:before, .check-box-remind label:before {background-color:#444; border-color:#444;}
+.user-holder.create-property-holder .field-holder .minimum-loading-list li, 
+.user-holder.create-property-holder .field-holder .has-icon>input[type="text"],
+.user-holder.create-property-holder .field-holder .chosen-container-multi .chosen-choices, .user-holder ul.tagit,
+.ui-widget.ui-widget-content, .jqte, .user-holder.create-property-holder .field-holder > textarea, .jqte_toolbar, 
+.jqte_tool, .jqte_tool_icon, .jqte_tool_label, .package-info-sec.property-info-sec, .property-info-sec ul li, .package-info-sec.property-info-sec,
+.xdsoft_datetimepicker, .xdsoft_datetimepicker .xdsoft_datepicker thead:before, 
+.xdsoft_datetimepicker  .xdsoft_timepicker .xdsoft_time_box >div >div, .xdsoft_datetimepicker  .xdsoft_timepicker .xdsoft_time_box,
+.xdsoft_time_box {border-color: #272727 !important;}
+.user-holder ul.tagit li.tagit-choice, .user-holder ul.tagit li.tagit-choice:hover, ul.tagit li.tagit-choice.remove {background-color: #404040; border-color: #272727;} 
+.jqte_toolbar {background: #383838 !important;}
+.progressbar-nav li.active:before, .progressbar-nav li.active:before, .progressbar-nav li.active:after, .progressbar-nav li.active.processing:before { background-image: linear-gradient(to top, #669966, #669966); border-color: #669966; }
+.progressbar-nav li.active:after { border-color: #003366; }
+.progressbar-nav li:before { background: #60a060; color: #fff; }
+.progressbar-nav li:after { border-color: #669966; background: #669966; }
+.xdsoft_datetimepicker .xdsoft_mounthpicker {background-color: #404040; display: inline-block; width: 100%;}
+.xdsoft_datetimepicker  .xdsoft_label {background-color:#404040 !important; color:#fff;}
+.xdsoft_datetimepicker {background: #303030 !important;}
+.xdsoft_datetimepicker  .xdsoft_timepicker .xdsoft_time_box >div >div {background:#444 !important; color:#999;}
+.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box >div > div:first-child {background: #2b2b2b !important;}
+div.xdsoft_datetimepicker .xdsoft_datepicker .xdsoft_calendar thead th, div.xdsoft_datetimepicker .xdsoft_datepicker .xdsoft_calendar td, div.xdsoft_datetimepicker .xdsoft_datepicker .xdsoft_calendar th {color:#999;}
+/*Add Properties Style End*/
+
+/*Typo Theme Color Style Start*/
+select, textarea, input[type=date], input[type=datetime], input[type=datetime-local], input[type=email], input[type =month], input[type=number], input[type=password], input[type=range], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week] { background: #2b2b2b; color: #666666; border-color: #272727; }
+.login-form form input[type='text'], .login-form form input[type='email'], .login-form form input[type='password'], .login-form .chosen-container-single .chosen-single, .login-form .chosen-container .chosen-drop, .modal-form .field-holder input[type='text'], .modal-form .field-holder input[type='email'], .modal-form .field-holder textarea { border-color: #272727; }
+.login-form .chosen-container-single .chosen-single, .modal-form .field-holder input[type='text'], .modal-form .field-holder input[type='email'], .modal-form .field-holder textarea ,
+.main-search.modern.v3 .select-location .select-popup span,
+.ysection .media-story .rating-stars:before, .main-search.modern.v3.small-search .chosen-container-single .chosen-single span,
+.main-search.modern.v2 .chosen-container-single .chosen-single span,
+.main-search .select-location .select-popup > span, .main-search .select-location .select-popup > span span{ color: #666666; }
+.login-form .chosen-container-single .chosen-single,
+.main-search.fancy .chosen-container-single .chosen-single,
+.main-search.fancy.v3 .fancy-v3-radius-location .wp-rem-radius-location,
+.select-location .select-popup{ background: #2b2b2b; }
+/*Typo Theme Color Style End*/
+/*Text Theme Color Style Start*/
+.property-data li, .property-data li a, .property-data li i, .property-social-links .social-share, .flickr-gallery-slider span a, .profile-info .text-holder ul li, .field-select-holder ul li > a:focus, .field-select-holder ul li a, .field-select-holder > ul > li > a:after, .property-detail .category-list li, .field-select-holder ul li a i, .property-detail .map-checkboxes .checkbox label, .sidebar .map-checkboxes-v2 label, .profile-info .text-holder ul li a, .categories-holder li, .ysection .media-story .rating:before, .property-detail .apartment-list table > tbody > tr > td, .wp-rem-map-zoom-controls a i, .profile-info address, .sh-hde-cnt-num .cntct-num-hold, .property-detail.detail-v5 .categories-holder li, .property-banner-slider .swiper-button-prev i, .property-banner-slider .swiper-button-next i, .login-form .modal-header .close, .wp_rem-add-review-data .modal-header .close, .login-form .chosen-container:after, .check-box-remind label, .property-records-sec, .map-fullscreen-btn a, .map-fullscreen-btn a:hover, .map-fullscreen-btn:hover a, .dominant-places-wrapper .map-checkboxes-v2 .swiper-checkbox-prev i, .dominant-places-wrapper .map-checkboxes-v2 .swiper-checkbox-next i, .dominant-places-wrapper .map-checkboxes-v2 .swiper-slide, .dominant-places-wrapper .map-places-radius-box li > ul li { color: #999999; }
+/*Text Theme Color Style End*/
+/*Text White Color Style Start*/
+.sidebar .profile-info .sh-hde-cnt-num, .sidebar .profile-info .sh-hde-cnt-num .cntct-num-hold, .ysection .media-story .media-title a, .attachment-holder .text-holder strong, .attachment-holder .text-holder strong a, .scoring-list .text-holder strong, .property-detail .map-places-detail-boxes .places-detail-box .place-name a, .property-detail .map-places-detail-boxes .places-detail-box span.place-name, .property-detail .map-places-detail-boxes .places-found-box .places-count-name, .property-detail .apartment-list table > thead > tr > th, .map-gallery-container .gallery li.map-part:before, .map-radius-holder:before, .property-detail-section-loader:before, .sidebar .cs-map-section:before, .detail-nav-map ul li a, .detail-v5 .detail-nav ul li a, .property-detail.detail-v5 .scoring-list .text-holder address, .login-form .nav-tabs > li > a, .login-form .cs-demo-login .cs-demo-login-lable, .login-form .nav-tabs > li.active > a, .login-form .nav-tabs > li.active > a:hover, .login-form .nav-tabs > li.active > a:focus, .claims-holder .check-box-remind a, .check-box-remind label a, .modal-form .close, .detail-nearby-properties .property-grid-slider .swiper-button-next i, .detail-nearby-properties .property-grid-slider .swiper-button-prev i, .overall-rate-big, .overall-heading-holder .overall-heading-txt, .rating-property > ul > li > span, .rating-stars-box .your-overall-rating-label, .review-title > p { color: #fff; }
+.property-detail.detail-v5 .list-detail-options .title-area .price-holder span { color: #fff !important; }
+/*Text White Color Style End*/
+/*Background White Color Style Start*/
+.property-banner-slider .swiper-button-prev i, .property-banner-slider .swiper-button-next i,
+.member-grid .post-inner-member .img-holder figure { background: #fff; }
+/*Background White Color Style End*/
+/*Background Color Style Start*/
+.flickr-gallery-slider, .widget-map-sec, .property-detail.detail-v5 .sidebar .widget-map-sec, .profile-info, .member-detail .contactform_name, .sidebar .profile-info .field-select-holder, .field-select-holder ul li, .field-select-holder ul.open li, .field-select-holder ul li ul.delivery-dropdown li, .widget-payment-holder, .service-rates-holder, .contact-info-detail, .description-holder, .gallery-holder, .features-holder, .category-holder, .property-detail .apartment-list, .property-detail .video-holder, .property-detail .attachment-holder, .ysection, .property-detail .architecture-holder, .scoring-holder, .scoring-list .img-holder span:before, .property-detail .map-places-detail-boxes .places-found-box, .property-detail .map-places-detail-boxes .places-detail-box:hover, .property-detail .map-places-detail-boxes .places-detail-box.active, .map-places-radius-box .dev-ch-radius-val, .sidebar-map-places-radius-box .sidebar-dev-ch-radius-val, .radius-val-dropdown li > ul, .sidebar-map-places-radius-box li > ul, .wp-rem-map-zoom-controls a, .detail-nav, .detail-nav-wrap.detail-v5, .detail-nav-wrap.detail-v5 .detail-nav.detail-nav-map, .property-detail.detail-v5 .property-detail-title-area, .property-detail.detail-v5 .apartment-list tbody > tr, .login-form .modal-content, .modal-form .modal-content, .wp_rem-add-review-data .modal-content, .login-form .nav-tabs > li.active > a, .user-form .nav-tabs > li.active > a:hover, .user-form .nav-tabs > li.active > a:focus, .login-form .nav-tabs > li > a:hover, .login-form .modal-header .close, .property-records-sec, .map-fullscreen-btn, .login-form .loader, .dominant-places-wrapper .map-checkboxes-v2 .swiper-wrapper, .dominant-places-wrapper .map-checkboxes-v2 .swiper-checkbox-prev, .dominant-places-wrapper .map-checkboxes-v2 .swiper-checkbox-next, .dominant-places-wrapper .map-checkboxes-v2, .reviews-holder, .sort-by .ajax-loader-sort-by, .ajax-loader-sorty-by, .dominant-places-wrapper .map-places-radius-box li > ul,
+.liting_map_info a.close { background: #383838; }
+/*Background Color Style End*/
+/*Detail Nearby Properties Background Color Style Start*/
+.detail-nearby-properties, .rating-help-text, .review-property .list-holder.review_reply, .user-reviews-list .reviews-list .review_reply { background: #494949; }
+/*Detail Nearby Properties Background Color Style End*/
+/*Background Other Color Style Start*/
+.widget-payment-holder .range-slider span.price, .widget-payment-holder .range-slider .slider-track { background: #2b2b2b; }
+/*Background Other Color Style End*/
+/*Background for Body Color Style Start*/
+.property-social-links .social-share, .property-social-links ul.rem-social-sharing-links, .property-detail .apartment-list tbody > tr:nth-of-type(2n+2), .property-detail.detail-v5 .apartment-list tbody > tr:nth-of-type(2n+2), .property-detail .map-places-detail-boxes .places-detail-box, .map-places-detail-boxes, .radius-val-dropdown li > ul li:hover span, .sidebar-map-places-radius-box li > ul li:hover span, .login-form .nav.nav-tabs, .login-form .cs-demo-login, .login-form .signin-tab-link { background: #444444; }
+/*Background for Body Color Style End*/
+/*All Border Color Style Start*/
+.property-social-links ul.rem-social-sharing-links li a, .flickr-gallery-slider, .widget-map-sec, .property-detail.detail-v5 .sidebar .widget-map-sec, .profile-info, .member-detail .contactform_name, .profile-info .img-holder figure, .profile-info.boxed, .profile-info.boxed .img-holder figure, .widget-payment-holder, .service-rates-holder, .contact-info-detail, .description-holder, .gallery-holder, .features-holder, .category-holder, .property-detail .apartment-list, .property-detail .video-holder, .property-detail .attachment-holder, .ysection, .property-detail .architecture-holder, .scoring-holder, .property-detail .apartment-list table > tbody > tr > td, .map-places-detail-boxes .places-detail-box, .map-places-detail-boxes .places-found-box, .map-places-detail-boxes, .radius-val-dropdown li > ul, .sidebar-map-places-radius-box li > ul, .login-form .cs-demo-login, .login-form .check-box-remind label:before, .check-box-remind label:before, .cs-map-section, .reviews-holder, .review-helpful-holder a { border-color: #2b2b2b; }
+.field-select-holder > ul > li > a { border-color: #2b2b2b !important; }
+/*All Border Color Style End*/
+/*Right Border Color Style Start*/
+.field-select-holder ul li ul.delivery-dropdown li, .wp-rem-map-zoom-controls a:first-child, .login-form .footer-element ~ .wp-user-form, .dominant-places-wrapper .map-checkboxes-v2 .swiper-slide, .dominant-places-wrapper .map-checkboxes-v2 .swiper-checkbox-prev, .dominant-places-wrapper .map-checkboxes-v2 .swiper-checkbox-next { border-right-color: #2b2b2b; }
+/*Right Border Color Style End*/
+/*Left Border Color Style Start*/
+.field-select-holder ul li ul.delivery-dropdown li, .map-places-radius-box .dev-ch-radius-val:after, .sidebar-map-places-radius-box .sidebar-dev-ch-radius-val:after, .review-helpful-holder a .marked-helpful-counts, .ratings-summary-container { border-left-color: #2b2b2b; }
+/*Left Border Color Style End*/
+/*Top Border Color Style Start*/
+.field-select-holder ul li ul.delivery-dropdown li:first-child, .categories-holder, .property-detail.detail-v5 .apartment-list table > tbody > tr > td, .review-property .list-holder { border-top-color: #2b2b2b; }
+/*Top Border Color Style End*/
+/*Bottom Border Color Style Start*/
+.field-select-holder ul li ul.delivery-dropdown li, .ysection .content-list.ylist-bordered, .categories-holder, .radius-val-dropdown li > ul li, .sidebar-map-places-radius-box li > ul li, .detail-nav-wrap.detail-v5 .detail-nav.detail-nav-map .btns-nav-inner, .property-detail.detail-v5 .property-detail-title-area, .detail-v5 .ysection .content-list.ylist-bordered, .property-detail.detail-v5 .apartment-list table thead, .property-detail.detail-v5 .apartment-list tbody > tr:last-child, .rating-sumary-holder, .reviews-holder .element-title, .wp_rem-add-review-data .modal-header, .dominant-places-wrapper .map-places-radius-box li > ul li { border-bottom-color: #2b2b2b; }
+/*Right Border Color Style End*/
+/*Other Colors sTyle Start*/
+.overall-rating .reviews-box li .label, .review-helpful-holder a, .review-flag-holder a { color: #989898; }
+.overall-rating .reviews-box li .item-list { background-color: #c6c9cc; }
+/*Other Colors sTyle End*/
+
+/* blud color */
+div.daterangepicker td.active, div.daterangepicker td.active:hover,
+.post-reviews-btn,
+.responsive-calendar .day.active a,
+.widget.widget_calendar #wp-calendar caption{background-color: #669966; color:#fff;}
+.ysection .media-story .rating-stars:before{color:#669966;}
+/* blud color */
+.user-holder .chosen-container-single .chosen-single div b:before{color:#141414;}
+.blog.blog-grid .blog-post .button-holder .btn-readmore:hover{ border-color: #dba102 !important; }
+.type-holder-main .loader-holder, .type-categry-holder-main .loader-holder {border-color:#dba102;}
+.type-categry-holder-main .loader-holder {background-color: rgba(30, 30, 30, 0.9); border-color: #dba102 !important;}
+.search-country .select-holder input::-webkit-input-placeholder, .main-search .search-input input::-webkit-input-placeholder {color: #666 !important;}
+.search-country .select-holder input::-moz-placeholder, .main-search .search-input input::-moz-placeholder {color: #666 !important; opacity: 1;}
+.search-country .select-holder input:-ms-input-placeholder, .main-search .search-input input:-ms-input-placeholder {color: #666 !important;}
+.search-country .select-holder input:-moz-placeholder, .main-search .search-input input:-moz-placeholder {color: #666 !important;}
+.main-search.advance .search-input .placeholder small{color:#444;}
+
+.liting_map_info .property-info-inner:before {bottom: -10px; border-top: 10px solid #383838; z-index: 99;}
+.main-search.modern.v2 .select-location .select-popup{background-color: #2d2d2d;}
+.main-search.modern.v2 .select-location .select-popup:before, .main-search.modern.v2 .select-location .select-popup:after,
+.gm-style .property-info-inner figure,
+.select-location .select-popup:after,
+.select-location .select-popup:before{border-bottom-color:#2d2d2d;}
+.main-search.modern.v2 .select-location .select-popup p, .main-search.modern.v2 .select-location .select-popup .my-location a, .main-search.modern.v2 .select-location .select-popup span{color:#666 !important;}
+.slider.slider-horizontal .slider-tick, .slider.slider-horizontal .slider-handle{box-shadow: none;}
+.chosen-container-multi .chosen-choices li.search-choice,
+.field-holder .chosen-container-multi li.search-choice { box-shadow: 0 0 2px rgba(34, 34, 34, 0.6) inset, 0 1px 0 rgba(28, 28, 28, 0.58); }
+.chosen-container-multi .chosen-choices li.search-choice .search-choice-close{background-position: -42px 1px !important; opacity: .5;}
+.chosen-container-multi .chosen-choices li.search-choice .search-choice-close:hover{opacity: 1;}
+.user-holder ul.tagit input[type='text']{background: transparent;}
+.user-holder.create-property-holder .field-holder > input[type='text'], .user-holder.create-property-holder .field-holder > textarea, .user-holder.create-property-holder .field-holder > input[type='password'], .user-holder.create-property-holder .field-holder .input-date > input[type='text'], .user-holder.create-property-holder .chosen-container-single .chosen-single, .user-holder.create-property-holder .field-holder .has-icon > input[type='text'], .user-holder.create-property-holder .field-holder .has-icon > textarea, .user-holder.create-property-holder .field-holder .has-icon > input[type='password'], .user-holder.create-property-holder .field-holder .has-icon .input-date > input[type='text'], .user-holder.create-property-holder .field-holder > input[type='number'], .user-holder.create-property-holder .field-holder > input[type='email'], .user-holder.create-property-holder .field-holder .has-icon > input[type='number'], .user-holder.create-property-holder .field-holder .has-icon > input[type='email'],
+.jqte_editor, .jqte_source{background: #2b2b2b !important; border-color:#272727;}
+.jqte_editor, .jqte .jqte_editor p, .jqte_placeholder_text{color:#666 !important;}
+.user-holder.create-property-holder .field-holder > textarea::-webkit-input-placeholder {color: #666 !important;}
+.user-holder.create-property-holder .field-holder > textarea::-moz-placeholder {color: #666 !important; opacity: 1;}
+.user-holder.create-property-holder .field-holder > textarea:-ms-input-placeholder {color: #666 !important;}
+.user-holder.create-property-holder .field-holder > textarea:-moz-placeholder {color: #666 !important;}
+.info-tooltip .info-content span:after, .info-tooltip .info-content span:before{border-right: 8px solid #444;}
+.jqte_tool.jqte_tool_1 .jqte_tool_text{color:#000 !important;}
